@@ -6,22 +6,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Quality engineer with experience in disseminating quality culture, automation, agile testing, metrics collection and CI/CD. Working supporting development teams on platform format, within engineering, working side by side on creation and fix of tests, testing new features together and code review. Knowledge in agile, micro services, shift-left, TDD, BDD.
+ Quality culture enthusiast working as Test Engineer with experience in automation, advocating quality culture, agile testing, metrics collection and CI/CD. Working supporting development teams on platform topics, within engineering, working side by side on automated tests, testing new features together and code review. Knowledge in agile, microservice architecture, shift-left, TDD, BDD.
 </p>
 
 
 ### I've worked with:
 <p align="left">
-  🐍 Languages: JavaScript, Python and Java.
+  🐍 Languages: JavaScript, Python and TypeScript.
 </p>
 <p align="left">
   🃏 Automation Frameworks and test tools: Cypress, MochaJS, Jest, Chai, Joi, PyTest, Postman, Runscope, Nock, Wiremock and 
 </p>
 <p align="left">
-  🚂 CI Tools: Jenkins and Circle CI.
+  🚂 CI Tools: Github and Circle CI.
 </p>
 <p align="left">
-  ✔️ Task management: Jira and Trello.
+  ✔️ Task management: Jira/Confluence
 </p>
 
 
