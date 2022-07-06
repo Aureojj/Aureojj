@@ -1,4 +1,4 @@
-# Hi folks 👋😁 I'm Aureo, Quality Engineer 👨‍💻 
+# Hi folks 👋😁 I'm Aureo, Test Engineer 👨‍💻 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aureoleite"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
