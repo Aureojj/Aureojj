@@ -12,7 +12,7 @@
 
 ### I've worked with:
 <p align="left">
-  🐍 Languages: JavaScript, Python, GO and Java.
+  🐍 Languages: JavaScript, Python and Java.
 </p>
 <p align="left">
   🃏 Automation Frameworks and test tools: Cypress, MochaJS, Jest, Chai, Joi, PyTest, Postman, Runscope, Nock, Wiremock and 
